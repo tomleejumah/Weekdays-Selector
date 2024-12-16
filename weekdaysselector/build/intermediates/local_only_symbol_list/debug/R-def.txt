@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+array recurrence
+attr? background_color
+attr? border_color
+attr? border_highlight_color
+attr? border_highlight_thickness
+attr? border_thickness
+attr? enabled
+attr? full_size
+attr? highlight_color
+attr? recurrence
+attr? show_weekend
+attr? sunday_first_day
+attr? text_color
+attr? text_unselected_color
+attr? weekend_color
+attr? weekend_text_color
+attr? weekenddarker
+styleable WeekdaysPicker enabled highlight_color background_color text_color text_unselected_color sunday_first_day show_weekend weekenddarker weekend_color weekend_text_color full_size recurrence border_color border_thickness border_highlight_color border_highlight_thickness
