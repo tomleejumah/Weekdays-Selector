@@ -105,69 +105,48 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
     @Override
     public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
         int id = buttonView.getId();
-        switch (id) {
-            //selectDay
-            case R.id.sw_enable:
+            if (id == R.id.sw_enable) {
                 widget.setEditable(isChecked);
-                break;
-            case R.id.sw_highlight_color:
+            } else if (id == R.id.sw_highlight_color) {
                 widget.setHighlightColor(isChecked ? Color.BLACK : Color.RED);
-                break;
-            case R.id.sw_background_color:
+            } else if (id == R.id.sw_background_color) {
                 widget.setBackgroundColor(isChecked ? Color.YELLOW : Color.LTGRAY);
-                break;
-            case R.id.sw_weekend_color:
+            } else if (id == R.id.sw_weekend_color) {
                 widget.setWeekendColor(isChecked ? Color.GREEN : Color.GRAY);
-                break;
-            case R.id.sw_text_color:
+            } else if (id == R.id.sw_text_color) {
                 widget.setTextColor(isChecked ? Color.BLUE : Color.WHITE);
-                break;
-            case R.id.sw_text_unselected_color:
+            } else if (id == R.id.sw_text_unselected_color) {
                 widget.setTextUnselectedColor(isChecked ? Color.GRAY : Color.RED);
-                break;
-            case R.id.sw_sunday_first:
+            } else if (id == R.id.sw_sunday_first) {
                 widget.setSundayFirstDay(isChecked);
-                break;
-            case R.id.sw_show_weekend:
+            } else if (id == R.id.sw_show_weekend) {
                 widget.setShowWeekend(isChecked);
-                break;
-            case R.id.sw_recurrence:
+            } else if (id == R.id.sw_recurrence) {
                 widget.setRecurrence(isChecked);
-                break;
-            case R.id.sw_weekenddarker:
+            } else if (id == R.id.sw_weekenddarker) {
                 widget.setWeekendDarker(isChecked);
-                break;
-            case R.id.sw_weekend_text_color:
+            } else if (id == R.id.sw_weekend_text_color) {
                 widget.setWeekendTextColor(isChecked ? Color.BLUE : Color.WHITE);
-                break;
-            case R.id.sw_border_color:
+            } else if (id == R.id.sw_border_color) {
                 widget.setBorderColor(isChecked ? Color.BLUE : -1);
-                break;
-            case R.id.sw_border_thickness:
+            } else if (id == R.id.sw_border_thickness) {
                 widget.setBorderThickness(isChecked ? 10 : 3);
-                break;
-            case R.id.sw_border_highlight_color:
+            } else if (id == R.id.sw_border_highlight_color) {
                 widget.setBorderHighlightColor(isChecked ? Color.MAGENTA : -1);
-                break;
-            case R.id.sw_border_highlight_thickness:
+            } else if (id == R.id.sw_border_highlight_thickness) {
                 widget.setBorderHighlightThickness(isChecked ? 10 : 3);
-                break;
-            case R.id.sw_fullsize:
+            } else if (id == R.id.sw_fullsize) {
                 widget.setFullSize(isChecked);
-                break;
-            case R.id.sw_customdays:
+            } else if (id == R.id.sw_customdays) {
                 widget.setCustomDays(isChecked ? mp : null);
-                break;
-            case R.id.sw_selectonlyone:
+            } else if (id == R.id.sw_selectonlyone) {
                 widget.setSelectOnlyOne(isChecked);
-                break;
-            case R.id.sw_setselecteddays:
+            } else if (id == R.id.sw_setselecteddays) {
                 if (isChecked) {
                     widget.setSelectedDays(selected_days);
                     tv_selected_days.setText("Selected days: " + Arrays.toString(widget.getSelectedDays().toArray()));
                 }
-                break;
-        }
+            }
         widget.redrawDays();
     }
 }

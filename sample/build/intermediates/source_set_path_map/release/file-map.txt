@@ -1,0 +1,13 @@
+com.dpro.weekdaysselector.sample-pngs-0 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/build/generated/res/pngs/release
+com.dpro.weekdaysselector.sample-resValues-1 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/build/generated/res/resValues/release
+com.dpro.weekdaysselector.sample-packageReleaseResources-2 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.dpro.weekdaysselector.sample-packageReleaseResources-3 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.dpro.weekdaysselector.sample-merged_res-4 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/build/intermediates/merged_res/release
+com.dpro.weekdaysselector.sample-main-5 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/res
+com.dpro.weekdaysselector.sample-release-6 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/release/res
+com.dpro.weekdaysselector.sample-packaged_res-7 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/packaged_res/release
+com.dpro.weekdaysselector.sample-jetified-appcompat-resources-1.1.0-8 /root/.gradle/caches/transforms-3/0342f89a2fc55d5610bc2f3c33a6d84e/transformed/jetified-appcompat-resources-1.1.0/res
+com.dpro.weekdaysselector.sample-core-1.1.0-9 /root/.gradle/caches/transforms-3/4fc921561e720af9ed1fb1c71bb3a026/transformed/core-1.1.0/res
+com.dpro.weekdaysselector.sample-coordinatorlayout-1.0.0-10 /root/.gradle/caches/transforms-3/6c281859966c13a0532b4ba4c5cde654/transformed/coordinatorlayout-1.0.0/res
+com.dpro.weekdaysselector.sample-appcompat-1.1.0-11 /root/.gradle/caches/transforms-3/a3d4088fad3970908c509dfd2159bab7/transformed/appcompat-1.1.0/res
+com.dpro.weekdaysselector.sample-media-1.0.0-12 /root/.gradle/caches/transforms-3/ea59e73c6e15893fb77892c260b71004/transformed/media-1.0.0/res

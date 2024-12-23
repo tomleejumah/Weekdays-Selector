@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample"
+    name=":sample"
+    type="APP"
+    maven="Weekdays-Selector:sample:"
+    agpVersion="8.0.2"
+    buildFolder="build"
+    bootClassPath="/home/tommlyjumah/Android/Sdk/platforms/android-33/android.jar:/home/tommlyjumah/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.dpro.weekdaysselector.sample-mergeDebugResources-7:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/tommlyjumah/.gradle/caches/transforms-3/d11adb82bd4c95ab740c397ac4fe1cf7/transformed/appcompat-1.1.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/tommlyjumah/.gradle/caches/transforms-3/a3d4088fad3970908c509dfd2159bab7/transformed/appcompat-1.1.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

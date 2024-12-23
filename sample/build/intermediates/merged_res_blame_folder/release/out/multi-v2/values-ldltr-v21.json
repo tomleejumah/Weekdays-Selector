@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dpro.weekdaysselector.sample-mergeReleaseResources-7:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/tommlyjumah/.gradle/caches/transforms-3/a3d4088fad3970908c509dfd2159bab7/transformed/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

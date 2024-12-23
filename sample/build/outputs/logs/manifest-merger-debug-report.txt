@@ -1,67 +1,69 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d11adb82bd4c95ab740c397ac4fe1cf7/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [:weekdaysselector] /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/aace5bb86c7db79572ad15bd53ff1ae3/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fcdcf56416e1a9e3e089d2aad33a5c5/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/37507b9879e966fc127e01baca224a73/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/71613de6d7d31ceb0671dd8471941748/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/676f0bfca958ecf903f3ecc0d3c9ec1e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/ae92e83163845e14f05becc2d3690d7a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/422d597bd44c5d09daa017c34c02e57b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c642e67d96d4a1db669d3231ba451edc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/a1ad41facbcda7480c6fa8f62e9619cd/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c9139eeeea2314ac22321a8a62bf170e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d362e46fbcfcf7ed71c727b5e93485f2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/cd9235223ec9d10d222143bdb68dd0c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/7e880c2b32cf891ae3ae1711881c65f2/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/81df5e0928dc312fd795c2b735d94e47/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/9b3d384c4dd17291859cac7c83a8ce24/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c0d6130ac4043acc431ef5f8e11c2266/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/b5b543f9987bef293e7d398594e4385f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/42329aaa327470a565c45048c64ba71a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/6ad520aa617bdd17a51411cd9301b0e2/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c697e65a75cbd8a86f2882a19a69f38c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/ffc2d1fe4204e773d6d96e18f3cd5023/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/7a6b72f13d847dc7bbdce7ee2d4e479a/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/20aee4edada2586568338e2e31f6e0a1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/16678006e77c40687e15cfc3179bb779/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6316b6f2dfa002117d96d07cdaaed894/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/32c3610f18531da74763446d5f131d1d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6c0970b5ba0fc18a19c311f480be7b66/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/cc59ebc5aa07f281a7340a46b553e523/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/84fc4a426695bb1053ed765dcd9bd463/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/84ea29c0ef54b70de21f3b1a96aa5cf4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/14e6f677e05a7d74522d54c87c8053b0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/a3d4088fad3970908c509dfd2159bab7/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:weekdaysselector] /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/0d7aa52d58dba7311eb875732b38cc82/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/1cb47f5792fac25d41ea9fb1ecd2db04/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d28e389771aa41e6f7e5f94310afef89/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/0342f89a2fc55d5610bc2f3c33a6d84e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/35a2b16419936b3784f151d8d42f7483/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/3226de7bd82656e513750060cad9fc05/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/eb4f1b35e22d8a33a60975326f58beab/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/dceaaa7366259815d6970c0ae1083a22/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/4c5a244139b39f83b4bdaa2bf2ae0e8e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/d9ee7b23bcdaca1d60ebd4df0a9d125b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/433edb7c0fafe2097b6e9b814f285f44/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/bf1ad45dd86f643e547776100667881a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6c281859966c13a0532b4ba4c5cde654/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/a81fdff77e313fb86a2129c4eff32405/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/9228ef13418a267573cbcabd768eebf8/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/ea59e73c6e15893fb77892c260b71004/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/911bbb93d510ae86539b93558d76ed67/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/23001fd98b0df2bb9f8a51da74b6b4e8/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fc921561e720af9ed1fb1c71bb3a026/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/eb9a31d5543a2efaff67743e7dd81a1f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/44839ffe34629f25f3512a27d16426ac/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/e1946c838cdf5920ee0e4202f3578045/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/b93cf0d4cc1370b0f5eb2ea46d1a9849/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c3e05b79b0b057c2469d52890f29f9c5/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c4264558fec8f64fc2e23fdb09a43884/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/3a15da86d4c88f7a385d1d91402f57ec/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/944b0c6a1ad76fb96670b3ff17e73141/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c4b6e294f14a996877f00d0846bf96b5/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/2e03b174553d3fe499015620afc8145c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/f21a8cae8128b7d20113d11ee896e494/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/bd9a0333a484e0e890fa2b8f403281e1/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
-		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
-		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/6ad520aa617bdd17a51411cd9301b0e2/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/6ad520aa617bdd17a51411cd9301b0e2/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/ffc2d1fe4204e773d6d96e18f3cd5023/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/ffc2d1fe4204e773d6d96e18f3cd5023/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fc921561e720af9ed1fb1c71bb3a026/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fc921561e720af9ed1fb1c71bb3a026/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/44839ffe34629f25f3512a27d16426ac/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/44839ffe34629f25f3512a27d16426ac/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/6ad520aa617bdd17a51411cd9301b0e2/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fc921561e720af9ed1fb1c71bb3a026/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:10:9-35
 	android:label
@@ -75,89 +77,91 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tomml
 	android:theme
 		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:11:9-40
 activity#com.dpro.weekdaysselector.MainActivity
-ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:13:13-36
 	android:name
 		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
 INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d11adb82bd4c95ab740c397ac4fe1cf7/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d11adb82bd4c95ab740c397ac4fe1cf7/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [:weekdaysselector] /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:weekdaysselector] /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/aace5bb86c7db79572ad15bd53ff1ae3/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/aace5bb86c7db79572ad15bd53ff1ae3/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fcdcf56416e1a9e3e089d2aad33a5c5/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fcdcf56416e1a9e3e089d2aad33a5c5/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/37507b9879e966fc127e01baca224a73/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/37507b9879e966fc127e01baca224a73/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/71613de6d7d31ceb0671dd8471941748/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/71613de6d7d31ceb0671dd8471941748/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/676f0bfca958ecf903f3ecc0d3c9ec1e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/676f0bfca958ecf903f3ecc0d3c9ec1e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/ae92e83163845e14f05becc2d3690d7a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/ae92e83163845e14f05becc2d3690d7a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/422d597bd44c5d09daa017c34c02e57b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/422d597bd44c5d09daa017c34c02e57b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c642e67d96d4a1db669d3231ba451edc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c642e67d96d4a1db669d3231ba451edc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/a1ad41facbcda7480c6fa8f62e9619cd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/a1ad41facbcda7480c6fa8f62e9619cd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c9139eeeea2314ac22321a8a62bf170e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c9139eeeea2314ac22321a8a62bf170e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d362e46fbcfcf7ed71c727b5e93485f2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d362e46fbcfcf7ed71c727b5e93485f2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/cd9235223ec9d10d222143bdb68dd0c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/cd9235223ec9d10d222143bdb68dd0c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/7e880c2b32cf891ae3ae1711881c65f2/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/7e880c2b32cf891ae3ae1711881c65f2/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/81df5e0928dc312fd795c2b735d94e47/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/81df5e0928dc312fd795c2b735d94e47/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/9b3d384c4dd17291859cac7c83a8ce24/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/9b3d384c4dd17291859cac7c83a8ce24/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c0d6130ac4043acc431ef5f8e11c2266/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c0d6130ac4043acc431ef5f8e11c2266/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/b5b543f9987bef293e7d398594e4385f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/b5b543f9987bef293e7d398594e4385f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/42329aaa327470a565c45048c64ba71a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/42329aaa327470a565c45048c64ba71a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/6ad520aa617bdd17a51411cd9301b0e2/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/6ad520aa617bdd17a51411cd9301b0e2/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c697e65a75cbd8a86f2882a19a69f38c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c697e65a75cbd8a86f2882a19a69f38c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/ffc2d1fe4204e773d6d96e18f3cd5023/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/ffc2d1fe4204e773d6d96e18f3cd5023/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/7a6b72f13d847dc7bbdce7ee2d4e479a/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/7a6b72f13d847dc7bbdce7ee2d4e479a/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/20aee4edada2586568338e2e31f6e0a1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/20aee4edada2586568338e2e31f6e0a1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/16678006e77c40687e15cfc3179bb779/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/16678006e77c40687e15cfc3179bb779/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6316b6f2dfa002117d96d07cdaaed894/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6316b6f2dfa002117d96d07cdaaed894/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/32c3610f18531da74763446d5f131d1d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/32c3610f18531da74763446d5f131d1d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6c0970b5ba0fc18a19c311f480be7b66/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6c0970b5ba0fc18a19c311f480be7b66/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/cc59ebc5aa07f281a7340a46b553e523/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/cc59ebc5aa07f281a7340a46b553e523/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/84fc4a426695bb1053ed765dcd9bd463/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/84fc4a426695bb1053ed765dcd9bd463/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/84ea29c0ef54b70de21f3b1a96aa5cf4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/84ea29c0ef54b70de21f3b1a96aa5cf4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/14e6f677e05a7d74522d54c87c8053b0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/14e6f677e05a7d74522d54c87c8053b0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/a3d4088fad3970908c509dfd2159bab7/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/a3d4088fad3970908c509dfd2159bab7/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:weekdaysselector] /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:weekdaysselector] /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/0d7aa52d58dba7311eb875732b38cc82/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/0d7aa52d58dba7311eb875732b38cc82/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/1cb47f5792fac25d41ea9fb1ecd2db04/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/1cb47f5792fac25d41ea9fb1ecd2db04/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d28e389771aa41e6f7e5f94310afef89/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/d28e389771aa41e6f7e5f94310afef89/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/0342f89a2fc55d5610bc2f3c33a6d84e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/0342f89a2fc55d5610bc2f3c33a6d84e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/35a2b16419936b3784f151d8d42f7483/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/35a2b16419936b3784f151d8d42f7483/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/3226de7bd82656e513750060cad9fc05/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/3226de7bd82656e513750060cad9fc05/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/eb4f1b35e22d8a33a60975326f58beab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/eb4f1b35e22d8a33a60975326f58beab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/dceaaa7366259815d6970c0ae1083a22/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/dceaaa7366259815d6970c0ae1083a22/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/4c5a244139b39f83b4bdaa2bf2ae0e8e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/4c5a244139b39f83b4bdaa2bf2ae0e8e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/d9ee7b23bcdaca1d60ebd4df0a9d125b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/d9ee7b23bcdaca1d60ebd4df0a9d125b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/433edb7c0fafe2097b6e9b814f285f44/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/433edb7c0fafe2097b6e9b814f285f44/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/bf1ad45dd86f643e547776100667881a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/bf1ad45dd86f643e547776100667881a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6c281859966c13a0532b4ba4c5cde654/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/6c281859966c13a0532b4ba4c5cde654/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/a81fdff77e313fb86a2129c4eff32405/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/a81fdff77e313fb86a2129c4eff32405/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/9228ef13418a267573cbcabd768eebf8/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/9228ef13418a267573cbcabd768eebf8/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/ea59e73c6e15893fb77892c260b71004/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/ea59e73c6e15893fb77892c260b71004/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/911bbb93d510ae86539b93558d76ed67/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/911bbb93d510ae86539b93558d76ed67/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/23001fd98b0df2bb9f8a51da74b6b4e8/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/23001fd98b0df2bb9f8a51da74b6b4e8/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fc921561e720af9ed1fb1c71bb3a026/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/4fc921561e720af9ed1fb1c71bb3a026/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/eb9a31d5543a2efaff67743e7dd81a1f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/eb9a31d5543a2efaff67743e7dd81a1f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/44839ffe34629f25f3512a27d16426ac/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/44839ffe34629f25f3512a27d16426ac/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/e1946c838cdf5920ee0e4202f3578045/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/e1946c838cdf5920ee0e4202f3578045/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/b93cf0d4cc1370b0f5eb2ea46d1a9849/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tommlyjumah/.gradle/caches/transforms-3/b93cf0d4cc1370b0f5eb2ea46d1a9849/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c3e05b79b0b057c2469d52890f29f9c5/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c3e05b79b0b057c2469d52890f29f9c5/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c4264558fec8f64fc2e23fdb09a43884/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c4264558fec8f64fc2e23fdb09a43884/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/3a15da86d4c88f7a385d1d91402f57ec/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/3a15da86d4c88f7a385d1d91402f57ec/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/944b0c6a1ad76fb96670b3ff17e73141/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/944b0c6a1ad76fb96670b3ff17e73141/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c4b6e294f14a996877f00d0846bf96b5/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/c4b6e294f14a996877f00d0846bf96b5/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/2e03b174553d3fe499015620afc8145c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/2e03b174553d3fe499015620afc8145c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/f21a8cae8128b7d20113d11ee896e494/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/f21a8cae8128b7d20113d11ee896e494/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/bd9a0333a484e0e890fa2b8f403281e1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tommlyjumah/.gradle/caches/transforms-3/bd9a0333a484e0e890fa2b8f403281e1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
 INJECTED from /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
 	android:targetSdkVersion

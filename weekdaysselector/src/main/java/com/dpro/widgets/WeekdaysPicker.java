@@ -25,6 +25,7 @@ import android.widget.Spinner;
 import androidx.annotation.ColorInt;
 
 import com.amulyakhare.textdrawable.TextDrawable;
+import com.dpro.weekdaysselector.R;
 
 import java.text.DateFormatSymbols;
 import java.util.ArrayList;

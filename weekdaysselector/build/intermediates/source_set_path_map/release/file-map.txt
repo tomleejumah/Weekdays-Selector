@@ -1,0 +1,10 @@
+com.dpro.weekdaysselector-core-1.0.0-0 /home/tommlyjumah/.gradle/caches/transforms-3/282f819db9d9ead94e6f321cc0a3900a/transformed/core-1.0.0/res
+com.dpro.weekdaysselector-coordinatorlayout-1.0.0-1 /home/tommlyjumah/.gradle/caches/transforms-3/6c281859966c13a0532b4ba4c5cde654/transformed/coordinatorlayout-1.0.0/res
+com.dpro.weekdaysselector-media-1.0.0-2 /home/tommlyjumah/.gradle/caches/transforms-3/ea59e73c6e15893fb77892c260b71004/transformed/media-1.0.0/res
+com.dpro.weekdaysselector-pngs-3 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/generated/res/pngs/release
+com.dpro.weekdaysselector-resValues-4 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/generated/res/resValues/release
+com.dpro.weekdaysselector-mergeReleaseResources-5 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.dpro.weekdaysselector-mergeReleaseResources-6 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.dpro.weekdaysselector-merged_res-7 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_res/release
+com.dpro.weekdaysselector-main-8 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/src/main/res
+com.dpro.weekdaysselector-release-9 /home/tommlyjumah/AndroidStudioProjects/Weekdays-Selector/weekdaysselector/src/release/res

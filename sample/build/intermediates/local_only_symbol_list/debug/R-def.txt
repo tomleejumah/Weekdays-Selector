@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color ic_launcher_background
+drawable ic_launcher_foreground
+id scrollview
+id sw_background_color
+id sw_border_color
+id sw_border_highlight_color
+id sw_border_highlight_thickness
+id sw_border_thickness
+id sw_customdays
+id sw_enable
+id sw_fullsize
+id sw_highlight_color
+id sw_recurrence
+id sw_selectonlyone
+id sw_setselecteddays
+id sw_show_weekend
+id sw_sunday_first
+id sw_text_color
+id sw_text_unselected_color
+id sw_weekend_color
+id sw_weekend_text_color
+id sw_weekenddarker
+id tv_selected_days
+id weekdays
+id weekrecurrenceview
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name_sample
+style AppTheme

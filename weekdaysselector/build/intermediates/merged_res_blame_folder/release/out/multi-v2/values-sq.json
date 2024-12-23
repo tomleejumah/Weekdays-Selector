@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dpro.weekdaysselector-merged_res-6:/values-sq/values-sq.xml",
+            "map": [
+                {
+                    "source": "/home/tommlyjumah/.gradle/caches/transforms-3/282f819db9d9ead94e6f321cc0a3900a/transformed/core-1.0.0/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.dpro.weekdaysselector-mergeReleaseResources-4:/values-sq/values-sq.xml",
+            "map": [
+                {
+                    "source": "/home/tommlyjumah/.gradle/caches/transforms-3/282f819db9d9ead94e6f321cc0a3900a/transformed/core-1.0.0/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
